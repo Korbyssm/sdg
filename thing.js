@@ -1,0 +1,1 @@
+function openLinkInNewTab() { const newTab = window.open('about:blank', '_blank'); // Open a new tab with about:blank newTab.location.href = 'https://terraria.mercurywork.shop'; // Redirect to the specified link } </script> <button onclick="openLinkInNewTab()">Open Terraria Link
